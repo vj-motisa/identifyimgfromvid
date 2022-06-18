@@ -1,0 +1,33 @@
+.h3 {
+    width: 100%;
+    margin-top: 0px;
+    font-size: 23.5px;
+}
+
+body {
+    background-size: cover;
+}
+
+.klaw {
+    font-size: 19px;
+}
+
+.footerdiv {
+    position: fixed;
+    background-color: grey;
+    bottom: 0px;
+    color: aliceblue;
+    width: 100%;
+    text-align: center;
+    line-height: 1.6;
+    font-size: 15px;
+}
+
+canvas {
+    border-style: double;
+    border-radius: 25px;
+    border-color: white;
+    border-width: 3px;
+    box-shadow: 5px 10px 18px 13px black;
+    margin-top: 150px;
+}
